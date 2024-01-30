@@ -1,0 +1,39 @@
+[
+    {
+       "name":"meet",
+       "price":8778,
+       "features":true,
+       "company":"apple"
+    },
+    {
+        "name":"jay",
+        "price":8779,
+        "features":true,
+        "company":"samsung"
+     },
+     {
+        "name":"vill",
+        "price":878,
+        
+        "company":"apple"
+     },
+     {
+        "name":"shivam",
+        "price":878,
+        
+        "company":"MI"
+     },
+     {
+        "name":"krish",
+        "price":8778,
+      
+        "company":"apple"
+     },
+     {
+        "name":"meetu",
+        "price":8778,
+        
+        "company":"apple"
+     }
+    
+]
